@@ -1,17 +1,1 @@
-{
-  "tailchat": [
-    {
-      "id": "4ae1"
-    },
-    {
-      "id": "c0aa",
-      "message": "test",
-      "name": "ya"
-    }
-  ],
-  "html-chat": [
-    {
-      "id": "7be3"
-    }
-  ]
-}
+{}
